@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 trong file nay chua co gi ca, gio mionh tien hanh them cho no co cai gi
 hang thu 2 trong file da duoc them vao
+=======
+>>>>>>> parent of 9249dcb... sua file dau tien tren the gioi
